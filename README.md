@@ -1,1 +1,1 @@
-#Smmry-chrome
+#Smmry Chrome Extension
