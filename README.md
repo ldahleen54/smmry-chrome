@@ -1,2 +1,0 @@
-# smmry-chrome
-# smmry-chrome
