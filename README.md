@@ -1,8 +1,8 @@
 # Smmry Chrome Extension
-Summarizes articles
+Chrome extension that summarizes articles using smmry.com
 ## Installation
 1. git clone https://github.com/ldahleen54/smmry-chrome.git
-2. Type "chrome://extensions" in the chrome url.
+2. Type "chrome://extensions" in the chrome omnibar.
 3. Enable developer mode in the top right.
 4. Load unpacked extension and select the folder where you downloaded smmry-chrome.
 ## Usage
